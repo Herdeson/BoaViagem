@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boa  Viagem</string>
+ 
+    <string name="entrar">OK</string>
+    <string name="logo">Marca App</string>
+    <string name="action_settings">Settings</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Password</string>
+    <string name="erro_login">Error login</string>
+    
+    <string name="novo_gasto">Novo Gasto</string>
+    <string name="nova_viagem">Nova Viagem</string>
+    <string name="minhas_viagens">Minhas Viagnes</string>
+    <string name="configuracoes">Configurações</string>
+   
+    
+
+</resources>
