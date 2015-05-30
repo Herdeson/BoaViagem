@@ -8,12 +8,14 @@
     <string name="action_settings">Settings</string>
     <string name="usuario">Usuário</string>
     <string name="senha">Password</string>
-    <string name="erro_login">Error login</string>
+    <string name="erro_login">Usuário ou Senha inválidos</string>
     
     <string name="novo_gasto">Novo Gasto</string>
     <string name="nova_viagem">Nova Viagem</string>
     <string name="minhas_viagens">Minhas Viagnes</string>
     <string name="configuracoes">Configurações</string>
+    
+    <string name="categoria">Categoria</string>
    
     
 
