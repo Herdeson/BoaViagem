@@ -1,4 +1,4 @@
- package br.com.senac.pi.boaviagem;
+package br.com.senac.pi.boaviagem;
 
 import android.app.Activity;
 import android.content.Intent;
