@@ -1,10 +1,9 @@
 package br.com.senac.pi.boaviagem;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.TextView;
-import android.widget.Toast;
 
 public class DashBoardActivity extends Activity{
 	
@@ -15,10 +14,17 @@ public class DashBoardActivity extends Activity{
 	}
 	
 	public void selecionarOpcao(View view){
-		TextView textView = (TextView) view;
-		String opcao = "Opção: "+ textView.getText().toString();
-		
-		Toast.makeText(this, opcao, Toast.LENGTH_LONG).show();
+		switch (view.getId()) {
+		case R.id.novo_gasto:
+			startActivity(new Intent(this, GastoActivity.class));
+			break;
+		case R.id.nova_viagem:
+			startActivity(new Intent(this, ViagemActivity.class));
+			break;
+
+		default:
+			break;
+		}
 	}
 	
 

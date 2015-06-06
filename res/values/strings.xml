@@ -22,6 +22,15 @@
     <string name="descricao">Descrição</string>
     <string name="local">Local</string>
     <string name="gastei">Gastei</string>
+    <string name="destino">Destino</string>
+    <string name="tipo_da_viagem">Tipo da Viagem</string>
+    <string name="lazer">Lazer</string>
+    <string name="negocios">Negocios</string>
+    <string name="data_da_saida">Data da Saída</string>
+    <string name="data_da_chegada">Data da Chegada</string>
+    <string name="orcamento">Orçamento</string>
+    <string name="quantidade_de_pessoas">Quantidade de Pessoas</string>
+    <string name="salvar">Salvar</string>
     <string-array name="categoria_gasto">
         <item>Alimentação</item>
         <item>Combustível</item>
