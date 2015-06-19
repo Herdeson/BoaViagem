@@ -21,6 +21,9 @@ public class DashBoardActivity extends Activity{
 		case R.id.nova_viagem:
 			startActivity(new Intent(this, ViagemActivity.class));
 			break;
+		case R.id.minhas_viagens:
+			startActivity(new Intent(this, ViagemListActivity.class));
+			break;
 
 		default:
 			break;
